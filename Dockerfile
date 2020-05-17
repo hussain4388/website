@@ -1,2 +1,2 @@
-FROM hussain4388/webapp
+FROM hussain4388/website
 ADD . /var/www/html
